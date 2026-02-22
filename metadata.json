@@ -1,0 +1,5 @@
+{
+  "name": "EduQuiz AI",
+  "description": "AI-powered educational platform that generates custom MCQs from science exam papers.",
+  "requestFramePermissions": []
+}
